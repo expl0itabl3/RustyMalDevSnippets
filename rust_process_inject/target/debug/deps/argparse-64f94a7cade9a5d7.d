@@ -1,0 +1,14 @@
+/Users/nw 1/Workspace/RustyMalDevSnippets/rust_process_inject/target/debug/deps/argparse-64f94a7cade9a5d7.rmeta: /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/lib.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/action.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/parser.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/generic.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/custom.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/help.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/print.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/bool.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/num.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/from_cli.rs
+
+/Users/nw 1/Workspace/RustyMalDevSnippets/rust_process_inject/target/debug/deps/argparse-64f94a7cade9a5d7.d: /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/lib.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/action.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/parser.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/generic.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/custom.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/help.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/print.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/bool.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/num.rs /Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/from_cli.rs
+
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/lib.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/action.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/parser.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/generic.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/custom.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/help.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/print.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/bool.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/num.rs:
+/Users/nw\ 1/.cargo/registry/src/github.com-1ecc6299db9ec823/argparse-0.2.2/src/from_cli.rs:
